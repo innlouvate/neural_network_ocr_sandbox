@@ -1,0 +1,16 @@
+{
+  "name": "nn-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "number_image_recognition.js",
+  "dependencies": {
+    "mnist": "^1.0.2",
+    "synaptic": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
